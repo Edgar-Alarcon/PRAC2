@@ -4,7 +4,7 @@
 
 ## Autor
 
-Edgar Alarcón Palma, e.alarcon@uoc.edu
+Edgar Alarcón Palma, ealarconpalma@uoc.edu
 
 ## Acerca de este software
 
